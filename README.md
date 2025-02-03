@@ -40,13 +40,6 @@
 
 <!-- Stats and Trophies -->
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=singap88a&show_icons=true&theme=dark&hide_border=true" alt="singap88a" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=singap88a&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="singap88a" />
-  <img src="https://github-profile-trophy.vercel.app/?username=singap88a&theme=darkhub&no-bg=true&no-frame=true" alt="singap88a" />
-</p>
-
----
 
  
 
